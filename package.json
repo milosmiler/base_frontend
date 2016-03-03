@@ -1,0 +1,12 @@
+{
+  "name": "jairo villalobos",
+  "version": "0.0.1",
+  "description": "Gulp: sistema base para sitios web ",
+  "main": "gulpfile.js",
+  "author": "jairovillalobos",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.1.0"
+  }
+}
